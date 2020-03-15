@@ -16,7 +16,7 @@ As shown in the Line Graph below, the most successful goal range occured in less
 ![Outcomes Based on Goals Line Graph](OutcomesBasedonGoalsLineGraph2.png)
 
 
-As shown in the PivotChart below, 2013 began the upward trend to successfulness and peaked at 304 in 2015 to eventually decline. There were also a good number of failures in 2015 at 202.   
+As shown in the PivotChart below, April began the upward trend to success and peaked in May to eventually decline. The failures did not appear to get too high and almost remained constant. Regardless, December would not be a good time to have this campaign.    
 ![Outcomes Based on Launch Date](OutcomesBasedOnLaunchDate2.png)
 
-Based on these observations, it is probably best to proceed with the goals of less than 1000 and aim towards mid-year (second to third quarter) for the most successful return rates. 
+Based on these observations respectively, it is probably best to proceed with the goals of less than 1000 and aim towards mid-year (May) for the most successful return rates. I learned and was able to analyze 2 different pieces of information amongst the 2 different tables. They each see success at their highest percentages and peaks.  
